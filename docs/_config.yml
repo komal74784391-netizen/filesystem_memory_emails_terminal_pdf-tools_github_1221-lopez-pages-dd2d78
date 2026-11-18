@@ -4,9 +4,9 @@ description: "Independent data science, survey methodology and research consulti
 author: "Amanda Lopez"
 
 # Publishing
-url: ""
-baseurl: ""
-repository: ""
+url: "https://komal74784391-netizen.github.io"
+baseurl: "/filesystem_memory_emails_terminal_pdf-tools_github_1221-lopez-pages-dd2d78"
+repository: "komal74784391-netizen/filesystem_memory_emails_terminal_pdf-tools_github_1221-lopez-pages-dd2d78"
 
 # Build settings
 markdown: kramdown
